@@ -1,4 +1,13 @@
-### Hi there 👋
+# Olá Mundo!!! 👋 🌎
+
+Me chamo Danilo dos Santos Dameluz, tenho 38 anos e sou apaixonado por Tecnologia.
+Formado em Análise e Desenvolvimento de Sistemas no ano de 2022 pela Fatec Dep. Ary Fossen (Fatec Jundiaí) 
+Atualmente estou em busca de uma nova oportunidade para agregar conhecimento e experiênica.
+
+## Estudando no Momento!!!🌱
+No momento estou melhorando meus conhecimentos em Git e Github.
+Executando desafios do #7DaysOfCode
+
 
 <!--
 **danilodameluz/danilodameluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
