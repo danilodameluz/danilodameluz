@@ -8,6 +8,9 @@ Acesse meu [Linkedin](https://www.linkedin.com/in/danilo-dos-santos-dameluz-757b
 > "1% melhor a cada dia"
 
 ## Estudando no Momento!!!🌱
+
+![GIF](https://i.gifer.com/9Wmb.gif)
+
 No momento estou melhorando meus conhecimentos em Git e Github.
 Executando desafios do curso FORMAÇÃO GITHUB CERTIFICATION da plataforma de cursos [DIO](https://web.dio.me/home).
 
@@ -43,7 +46,10 @@ Executando desafios do curso FORMAÇÃO GITHUB CERTIFICATION da plataforma de cu
 #### TRECHO DE CÓDIGO
 `system.out.println('Hello World')`
 
-
+| Tabela | Tabela |
+| ------ |  ----- |
+| Texto 1|Texto 2 |
+| Danilo | Letícia|
 
 
   
