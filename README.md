@@ -1,6 +1,6 @@
 # Olá Mundo!!! 👋 🌎 
 
-Me chamo Danilo dos Santos Dameluz, tenho 39 anos e sou apaixonado por Tecnologia.
+Me chamo Danilo dos Santos Dameluz, tenho 40 anos e sou apaixonado por Tecnologia.
 Formado em Análise e Desenvolvimento de Sistemas no ano de 2022 pela Fatec Dep. Ary Fossen (Fatec Jundiaí).
 Atualmente estou trabalhando como analista de suporte em Banco de Dados SQL e desenvolvimentos C# na empresa [MLHS - Desenvolvimento e Consultoria](https://www.mlhs.com.br/).
 Acesse meu [Linkedin](https://www.linkedin.com/in/danilo-dos-santos-dameluz-757b7992/) para me conhecer melhor.
@@ -11,8 +11,6 @@ Acesse meu [Linkedin](https://www.linkedin.com/in/danilo-dos-santos-dameluz-757b
 
 ![GIF](https://i.gifer.com/9Wmb.gif)
 
-No momento estou melhorando meus conhecimentos em Git e Github.
-Executando desafios do curso FORMAÇÃO GITHUB CERTIFICATION da plataforma de cursos [DIO](https://web.dio.me/home).
 
 ### Exemplos de Utilização Markdown
 # TÍTULO1
